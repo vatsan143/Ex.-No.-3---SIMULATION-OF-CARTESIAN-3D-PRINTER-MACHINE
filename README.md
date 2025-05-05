@@ -1,5 +1,4 @@
 # Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -66,8 +65,6 @@
 ![Screenshot 2023-11-21 153624](https://github.com/vatsan143/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147368204/7ed5508d-dfa8-4fa2-bc8a-846e47107970)
 ![Screenshot 2023-11-21 153440](https://github.com/vatsan143/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147368204/63f4e72b-f424-40d6-aaa1-3fa403a8165a)
 
-### Name: 
-### Register Number:
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
